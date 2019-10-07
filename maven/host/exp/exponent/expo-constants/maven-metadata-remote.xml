@@ -3,10 +3,10 @@
   <groupId>host.exp.exponent</groupId>
   <artifactId>expo-constants</artifactId>
   <versioning>
-    <release>2.0.1</release>
+    <release>6.0.0</release>
     <versions>
-      <version>2.0.1</version>
+      <version>6.0.0</version>
     </versions>
-    <lastUpdated>20190510174615</lastUpdated>
+    <lastUpdated>20191007102324</lastUpdated>
   </versioning>
 </metadata>
